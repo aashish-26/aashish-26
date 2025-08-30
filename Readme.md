@@ -1,3 +1,6 @@
+# Hi, I'm **Aashish Bhandari**
+
+**DevOps Engineer** · *Learning Solution Architecture* · *Exploring AI*
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aashish-26/aashish-26/main/assets/banner-dark.svg" />
@@ -5,13 +8,7 @@
     <img alt="Aashish Bhandari — Cloud • DevOps • AI" src="https://raw.githubusercontent.com/aashish-26/aashish-26/main/assets/banner-light.svg" width="100%" />
   </picture>
 </div>
-
-# Hi, I'm **Aashish Bhandari**
-
-**DevOps Engineer** · *Learning Solution Architecture* · *Exploring AI*
-
 ---
-</div>
 
 ## 🌐 Find Me Online  
 
