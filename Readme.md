@@ -116,10 +116,13 @@
 
 ---
 
-## 📂 Featured Projects
-- **AWS Infra Automation** — Terraform modules for VPC, ALB, ASG, RDS, S3/CloudFront  
-- **Cost Optimization Playbook** — Savings via RI purchases, lifecycle rules, guardrails  
-- **Observability Toolkit** — Dashboards, SLO-driven alerts (Datadog, Grafana, PagerDuty)  
-- **AI in DevOps** — Early experiments integrating AI into CI/CD & monitoring  
+## 📂 Featured Projects  
+
+| 🚀 Project | Description |
+|------------|-------------|
+| [Monolithic-App-Migration-to-AWS](https://github.com/aashish-26/Project-1-Monolithic-App-Migration-to-AWS) | The goal is to solve practical business problems using AWS, Infrastructure as Code (Terraform), and smart DevOps practices |
+| [AI-Assisted-Cloud-Architecture-with-Terraform-Pulumi](https://github.com/aashish-26/AI-Assisted-Cloud-Architecture-with-Terraform-Pulumi) | This end-to-end workflow demonstrates: Solution Architecture Lifecycle, AI-Augmented Development, Multi-IaC Proficiency, Migration Planning |
+| [Project-3-Multi-Region-SaaS-App](https://github.com/aashish-26/Project-3-Multi-Region-SaaS-App) | As the Solution Architect, my role was to: Redesign the system for global scale, Introduce DR and high availability, Monitor AI usage securely, Keep infrastructure simple enough for a small team |
+| [DockerwithAI](https://github.com/aashish-26/DockerwithAI) | This is a beginner-friendly project where I combined AI + DevOps concepts to automate Docker-related workflows. |
 
 ---
