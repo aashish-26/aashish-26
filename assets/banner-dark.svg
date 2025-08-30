@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Profile banner — dark</title>
+<desc id="desc">Minimal cloud banner with dark gradient and simple cloud glyph.</desc>
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#0b1020"/>
+<stop offset="1" stop-color="#111827"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="300" fill="url(#g)"/>
+<!-- cloud glyph -->
+<g transform="translate(1000,170) scale(1.1)" opacity="0.25">
+<path d="M-160,10a60,60 0 0 1 97-46a80,80 0 0 1 123,52a55,55 0 0 1 -7,110h-190a50,50 0 0 1 -23-96z" fill="#d1d5db"/>
+</g>
+<g font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif" fill="#e5e7eb">
+<text x="60" y="145" font-size="44" font-weight="700">Aashish Bhandari</text>
+<text x="60" y="190" font-size="22">Cloud • DevOps • AI</text>
+</g>
+</svg>
