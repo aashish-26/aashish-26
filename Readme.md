@@ -1,9 +1,9 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Aashish Bhandari — DevOps, Cloud, AI" src="assets/banner-dark.svg" width="100%" />
-</picture>
-
 <div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
+<img alt="Aashish Bhandari — Cloud • DevOps • AI" src="assets/banner-light.svg" width="100%" />
+</picture>
 
 # Hi, I'm **Aashish Bhandari**
 
