@@ -1,13 +1,16 @@
-# Hi, I'm **Aashish Bhandari**
+<div align="center">
+  
+# Hi, I'm **Aashish Bhandari** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 **DevOps Engineer** · *Learning Solution Architecture* · *Exploring AI*
-<div align="center">
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aashish-26/aashish-26/main/assets/banner-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aashish-26/aashish-26/main/assets/banner-light.svg" />
     <img alt="Aashish Bhandari — Cloud • DevOps • AI" src="https://raw.githubusercontent.com/aashish-26/aashish-26/main/assets/banner-light.svg" width="100%" />
   </picture>
 </div>
+
 ---
 
 ## 🌐 Find Me Online  
@@ -96,11 +99,11 @@
 ---
 
 ## 🏅 Certifications
-- ✅ AWS Certified Cloud Practitioner  
-- ✅ Microsoft Certified: Azure Fundamentals (AZ-900)  
-- ✅ AWS Solutions Architecture Job Simulation (Forage)  
+- 🎖️ AWS Certified Cloud Practitioner  
+- 🎖️ Microsoft Certified: Azure Fundamentals (AZ-900)  
+- 🎖️ AWS Solutions Architecture Job Simulation (Forage)  
 
-<div align="center">
+<div align="left">
 
 **Loading More**  
 `[██████████░░░░░░░░░░] 35%`  
