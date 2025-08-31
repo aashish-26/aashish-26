@@ -101,7 +101,8 @@
 ## 🏅 Certifications
 - 🎖️ AWS Certified Cloud Practitioner  
 - 🎖️ Microsoft Certified: Azure Fundamentals (AZ-900)  
-- 🎖️ AWS Solutions Architecture Job Simulation (Forage)  
+- 🎖️ Microsoft Certified: Azure Fundamentals (SC-900)
+- 🎖️ Microsoft GitHub Copilot Fundamentals
 
 <div align="left">
 
